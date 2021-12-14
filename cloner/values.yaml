@@ -41,8 +41,8 @@ configs:
   upload_package.sh: |
     #!/bin/bash
     mkdir -p ~/packages && cd ~/packages;
-    curl -O "https://bioconductor.statistik.tu-dortmund.de/packages/3.14/workflows/src/contrib/$1";
-    source /galaxy/server/.venv/bin/activate && python /mnt/configs/swift_upload.py -b "am-demo-bioc" ~/packages/$1 /packages/3.14/workflows/src/contrib/$1;
+    curl -O "https://bioconductor.statistik.tu-dortmund.de/packages/3.14/data/experiment/src/contrib/$1";
+    source /galaxy/server/.venv/bin/activate && python /mnt/configs/swift_upload.py -b "am-demo-bioc" ~/packages/$1 /packages/3.14/data/experiment/src/contrib/$1;
 
 cloneJob:
   image: galaxy/galaxy-min:latest
