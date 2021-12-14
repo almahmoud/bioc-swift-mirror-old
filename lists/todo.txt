@@ -1,4 +1,3 @@
-50tars/listbg
 50tars/listbh
 50tars/listbi
 50tars/listbj
