@@ -1,2 +1,1 @@
-50data/datalistar
 50data/datalistas
