@@ -1,4 +1,3 @@
-50tars/listar
 50tars/listas
 50tars/listat
 50tars/listau
