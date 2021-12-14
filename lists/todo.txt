@@ -1,4 +1,3 @@
-50exp/explistaf
 50exp/explistag
 50exp/explistah
 50exp/explistai
