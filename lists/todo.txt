@@ -1,4 +1,3 @@
-50data/datalistap
 50data/datalistaq
 50data/datalistar
 50data/datalistas
