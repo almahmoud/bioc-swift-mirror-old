@@ -1,4 +1,3 @@
-50tars/listap
 50tars/listaq
 50tars/listar
 50tars/listas
