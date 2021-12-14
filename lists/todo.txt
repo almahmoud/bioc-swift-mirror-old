@@ -1,4 +1,3 @@
-50data/datalistaj
 50data/datalistak
 50data/datalistal
 50data/datalistam
