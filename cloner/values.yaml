@@ -33,7 +33,7 @@ configs:
 
         while not uploaded:
             uploaded = ob.upload_from_file(args.filepath)
-        print(f'Uploaded: {args.filepath}')
+        print(f'Uploaded: {args.filepath} of size {ob.size} bytes')
 
     if __name__ == '__main__':
         sys.exit(main(sys.argv[1:]))
