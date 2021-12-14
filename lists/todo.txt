@@ -1,4 +1,3 @@
-50tars/listag
 50tars/listah
 50tars/listai
 50tars/listaj
