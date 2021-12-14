@@ -1,7 +1,5 @@
 name: x5 Clone Bioconductor packages to SWIFT buckets
 on:
-  schedule:
-    - cron: "*/30 * * * *"
   workflow_dispatch: {}
 
 jobs:
