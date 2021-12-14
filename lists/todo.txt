@@ -1,4 +1,3 @@
-50tars/listaa
 50tars/listab
 50tars/listac
 50tars/listad
