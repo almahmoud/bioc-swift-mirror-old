@@ -1,4 +1,3 @@
-50mac/maclistbo
 50mac/maclistbp
 50win/windowslistaa
 50win/windowslistab
