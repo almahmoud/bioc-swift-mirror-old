@@ -1,4 +1,3 @@
-50mac/maclistai
 50mac/maclistaj
 50mac/maclistak
 50mac/maclistal
