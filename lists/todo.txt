@@ -1,4 +1,3 @@
-50soft/softlistak
 50soft/softlistal
 50soft/softlistam
 50soft/softlistan
