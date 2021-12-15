@@ -1,4 +1,3 @@
-50win/windowslistao
 50win/windowslistap
 50win/windowslistaq
 50win/windowslistar
