@@ -40,9 +40,9 @@ configs:
 
   upload_package.sh: |
     #!/bin/bash
-    mkdir -p "~/$(dirname $1)" && cd "~/$(dirname $1)";
-    BASE_URL=https://bioconductor.statistik.tu-dortmund.de
-    curl -O "$BASE_URL/$1";
+    mkdir -p "~/$(dirname $1)";
+    BASE_URL="https://bioconductor.statistik.tu-dortmund.de";
+    cd "~/$(dirname $1)" && curl -O "$BASE_URL/$1";
     source /galaxy/server/.venv/bin/activate && python /mnt/configs/swift_upload.py -b "am-demo-bioc" "~/$1" "/$1";
 
 cloneJob:
