@@ -1,4 +1,3 @@
-50mac/maclistba
 50mac/maclistbb
 50mac/maclistbc
 50mac/maclistbd
