@@ -1,4 +1,3 @@
-50mac/maclistam
 50mac/maclistan
 50mac/maclistao
 50mac/maclistap
