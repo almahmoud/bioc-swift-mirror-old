@@ -1,4 +1,3 @@
-50soft/softlistbb
 50soft/softlistbc
 50soft/softlistbd
 50soft/softlistbe
